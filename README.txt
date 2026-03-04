@@ -1,0 +1,4 @@
+Name: [Umer Abbasi, Zaha Abbasi]
+Team Alias: SCNZCREW
+
+A chaining type hash table is implemented here in C++. The program reads a number K (Number of slots) and a series of string tokens from a standard input and inserts each token into a hash table using a custom polynomial hash function with base 683 and a large prime mod of 1000000007. Such a large prime number was chosen as it has no common factors with most other numbers. 683 was chosen as a random number large enough to give low standard deviation.The program then prints the contents of the first 5 slots , the length of every slot and the standard deviation of all slot lengths.
